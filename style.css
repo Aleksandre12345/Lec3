@@ -1,0 +1,23 @@
+h1 {
+    color:blue;
+    background-color: green;
+}
+
+table, td, th {
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+th {
+    border: 2px double black;
+    background-color: lightblue;
+}
+/* #Aleksandre {
+    color: green;
+    background-color: blue;
+} */
+
+td {
+    background-color: lightcoral;
+}
